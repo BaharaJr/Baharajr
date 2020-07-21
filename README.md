@@ -6,7 +6,7 @@ World's Okayest Dev.
 
 > I am a Dev and Weirdo who fell in love with NestJs in my journey to master Typescript :sparkles: :sparkles:.
 
-## [Shout to me 🗣️🗣️](<https://twitter.com/intent/tweet?text=Yooh%20🔥🔥%20%40BaharaJr%20%F0%9F%91%8B.%20what's%20good%20%20!%20(https%3A%2F%2Fgithub.com%2FBaharaJr)%0A%0A>)
+## [Shout to me 🗣️🗣️](<https://twitter.com/intent/tweet?text=Yooh%20🔥🔥%20%40BaharaJr%20%F0%9F%91%8B.%20what's%20good!%20(https%3A%2F%2Fgithub.com%2FBaharaJr)%0A%0A>)
 
 <table>
   <tr>
