@@ -6,6 +6,10 @@ World's Okayest Dev.
 
 > Dev and Weirdo who fell in love with NestJs in my journey to master Typescript :sparkles: :sparkles:.
 
+##  😄 Pronouns:
+   > He/Him
+
+
 ## [Shout to me 🗣️🗣️](<https://twitter.com/intent/tweet?text=Yooh%20🔥🔥%20%40BaharaJr%20%F0%9F%91%8B.%20what's%20good!%20(https%3A%2F%2Fgithub.com%2FBaharaJr)%0A%0A>)
 
 <table>
@@ -15,12 +19,9 @@ World's Okayest Dev.
   </tr>
 </table>
 
-![Bennett Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muchirijane&show_icons=true&theme=nightowl)
+## My GitHub Stats
 
-##  😄 Pronouns:
-   > He/Him
-
-### Links
+[Bennett Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaharaJr&show_icons=true&theme=nightowl)
 
 # Stay in touch 📫
 - [Twitter](https://twitter.com/BaharaJr)
