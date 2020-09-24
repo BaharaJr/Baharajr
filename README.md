@@ -15,6 +15,8 @@ World's Okayest Dev.
   </tr>
 </table>
 
+![Bennett Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muchirijane&show_icons=true&theme=nightowl)
+
 ##  😄 Pronouns:
    > He/Him
 
