@@ -21,7 +21,7 @@ World's Okayest Dev.
 
 ## My GitHub Stats
 
-![Bennett Benedict's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaharaJr&show_icons=true&theme=nightowl&count_private=true)
+![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=BaharaJr&show_icons=true&theme=nightowl&count_private=true&hide_rank=false)
 
 # Stay in touch 📫
 - [Twitter](https://twitter.com/BaharaJr)
