@@ -2,8 +2,8 @@
 name: Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "0 0 * * *"}]
-  push: {branches: "master"}
+  schedule: [{ cron: "0 0 * * *" }]
+  push: { branches: "master" }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -31,4 +31,4 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://docs.ospicx.com/
+          plugin_pagespeed_url: https://portal-dashboard.vercel.app/applications
