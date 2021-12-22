@@ -1416,18 +1416,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -1448,7 +1448,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            6897 Commits
+            6904 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1663,14 +1663,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.02160160679884" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="232.02160160679884" y="0" width="117.87574635532663" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="349.8973479621255" y="0" width="70.11749033324679" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="420.0148382953723" y="0" width="18.91940045635273" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="438.93423875172505" y="0" width="13.205146948311905" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.13938570003694" y="0" width="5.0978425719711975" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="457.2372282720081" y="0" width="2.4669007637759774" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.7041290357841" y="0" width="0.29587096421593406" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.90384689585986" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="227.90384689585986" y="0" width="123.94752479067792" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="351.8513716865378" y="0" width="68.87309487980862" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.72446656634645" y="0" width="18.583632364857042" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="439.30809893120346" y="0" width="12.970791372458232" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.27889030366174" y="0" width="5.007369680132731" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="457.2862599837944" y="0" width="2.4231199598718987" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.7093799436663" y="0" width="0.2906200563336806" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1743,7 +1743,7 @@
           </h3>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/></svg>
-            Best streak 379 days
+            Best streak 380 days
           </div>
                         <h3 class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
@@ -1782,9 +1782,9 @@
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0769230769230766 1.7,3.0769230769230766 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.076923076923077)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9230769230769234 0,1.9230769230769231 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9230769230769231 1.7,2.9230769230769234 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9230769230769234 0,1.9230769230769231 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9230769230769231 1.7,2.9230769230769234 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.3076923076923075)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -3710,7 +3710,12 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5384615384615383 0,2.5384615384615383 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5384615384615383 1.7,3.5384615384615383 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
+                            <g transform="translate(-3.4, 7.230769230769231)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.769230769230769 0,1.7692307692307692 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7692307692307692 1.7,2.769230769230769 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -3733,52 +3738,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">BaharaJr/popcorn</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#6983aea</span>
-                                        <span class="message">update popcorn</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">udsm-dhis2-project/hrhis_integration_mediators</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#ff4fb39</span>
-                                        <span class="message">add tnmc updates mediator</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">udsm-dhis2-project/hris-core</span>
+                      Pushed 1 commit in <span class="repo">udsm-dhis2-project/idsr-web-app</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <span class="sha">#0ce9111</span>
-                                        <span class="message">update file paths to relative paths</span>
+                                        <span class="sha">#b44c404</span>
+                                        <span class="message">feat: add ou selection</span>
                                     </div>
                                 </div>
                             </section>
@@ -3790,14 +3757,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">udsm-dhis2-project/hris-core</span>
+                      Pushed 1 commit in <span class="repo">monitafrica/dpod</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <span class="sha">#901a99c</span>
-                                        <span class="message">update data store post api</span>
+                                        <span class="sha">#ebb0481</span>
+                                        <span class="message">add logging http filter and logging interceptor</span>
                                     </div>
                                 </div>
                             </section>
@@ -3809,28 +3776,64 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">udsm-dhis2-project/hris-core</span>
+                      Pushed 1 commit in <span class="repo">monitafrica/dpod</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <span class="sha">#12cc9c7</span>
-                                        <span class="message">
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> add paraphrase to ssh key
-                                        </span>
+                                        <span class="sha">#719791e</span>
+                                        <span class="message">improve pod api naming convention</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">monitafrica/dpod</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#4e2d143</span>
+                                        <span class="message">remove console logs</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">monitafrica/dpod</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#4d04820</span>
+                                        <span class="message">add user based pod access and improve authorization</span>
                                     </div>
                                 </div>
                             </section>
                         </div>
                     </section>
                 </div>
-                <footer>
-                    <span>These metrics include private contributions</span>
-                    <span>Last updated 21 Dec 2021, 03:18:38 (timezone Africa/Dar_es_Salaam) with lowlighter/metrics@3.16.0</span>
-                </footer>
             </section>
-            <div id="metrics-end"></div>
+            <footer>
+                <span>These metrics include private contributions</span>
+                <span>Last updated 22 Dec 2021, 03:18:43 (timezone Africa/Dar_es_Salaam) with lowlighter/metrics@3.16.0</span>
+            </footer>
         </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
 </svg>
