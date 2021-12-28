@@ -31,4 +31,4 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://portal-dashboard.vercel.app/applications
+          plugin_pagespeed_url: http://66.94.127.103/
